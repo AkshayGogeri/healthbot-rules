@@ -10,8 +10,8 @@ CChipDRDErrTable:
   key:
     chip_type: center_chip
   map:
-    xm: xm-drd-error.yml
-    mqss: ea-drd-error.yml
+    xm: xm_drd_err.yml
+    mqss: ea_drd_err.yml
 
 CChipFiErrTable:
   key:
@@ -24,8 +24,8 @@ CChipFOStatsTable:
   key:
     chip_type: center_chip
   map:
-    xm: xm-fo-statistics.yml
-    mqss: ea-fo-statistics.yml
+    xm: xm_fo_stat.yml
+    mqss: ea_fo_stat.yml
 
 CChipHostDropTable:
   key:
@@ -59,8 +59,8 @@ CChipWiStatsTable:
   key:
     chip_type: center_chip
   map:
-    xm: xm-wi-statistics.yml
-    mqss: ea-wi-statistics.yml
+    xm: xm_wi_stat.yml
+    mqss: ea_wi_stat.yml
 
 CChipWoStatsTable:
   key:
